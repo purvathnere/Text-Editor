@@ -1,6 +1,6 @@
 # Simple Text Editor
 
-This is a basic text editor implemented in Java using Swing.
+This is a basic text editor implemented in Java using Swing .
 
 ## Features
 
